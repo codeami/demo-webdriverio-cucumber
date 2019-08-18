@@ -3,6 +3,7 @@
 
 ### Logs ###
 test-report/
+debug.log
 
 ### Node ###
 node_modules/
